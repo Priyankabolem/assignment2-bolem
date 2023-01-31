@@ -1,9 +1,9 @@
-# assignment2-bolem
+# Assignment2-bolem
 # I'm Priyanka Bolem
 ###### Favorite sport is Basketball
 basketball is the most loved sport around. its played by number of people and origin from america but popular in world.
-**its hihgly compitetive**
-**it's having fun and team work**
+**Its hihgly compitetive**
+**It's having fun and team work**
 ****
  # Assignment2 for Webapps.
 ##  Favorite team is Basketball Roster  
