@@ -14,3 +14,16 @@ Three best players are
 * Denver Nuggets
 * Golden State Warriors
 
+lets go to the AboutMe link.
+[Please](https://github.com/Priyankabolem/assignment2-bolem/blob/main/AboutMe.md)
+
+****
+# Tables
+Create a table with at least 4 countries that you 
+would recommend someone visit. 
+|Country|Reason for recommend|Time Period|
+|-------|--------------------|-----------|
+|India  | Unity in diversity |6 months   |
+|USA    | Explore and learn  |6 months   |
+|Germany| Travel             |2 months   |
+|Japan  | Different culture  |2 months   |
