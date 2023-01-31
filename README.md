@@ -36,4 +36,21 @@ would recommend someone visit.
 ****
 # Code Fencing 
 First find a code snippet.Check your S number and consult the table to find the set of snippets you can select from. Snippet code is htaccess.
+### Stackoverflow
+Find a relevant question on stack overflow and Block quote it. Give a quick-link to the article on stack overflow.
+
+>Variable declaration issue while using useState Hook? - [Click Here](https://stackoverflow.com/questions/75300292/variable-declaration-issue-while-using-usestate-hook)
+
+```
+<IfModule mod_rewrite.c>
+RewriteEngine On
+RewriteCond %{HTTP_USER_AGENT} .*iPhone.*
+RewriteRule ^index\.html$ http://www.mobile.mydomain.com [L]
+RewriteRule  ^/$ http://www.mydomain.com/index.html [L]
+</IfModule>
+```
+### Display the snippet from css-tricks using code fencing
+
+iPhone Catcher Htaccess code- [Click here](https://css-tricks.com/snippets/htaccess/iphone-catcher/)
+
 
