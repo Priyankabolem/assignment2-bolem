@@ -30,8 +30,8 @@ would recommend someone visit.
 
 ****
 # Pithy Quotes 
->When your mother asks, ‘Do you want a piece of advice?’ it is a mere formality. It doesn’t matter if you answer yes or no. You’re going to get it anyway.  - ***Erma Bombeck*** <br>
->I love being married. It's so great to find that one special person you want to annoy for the rest of your life. - ***Rita Rudner***
+>If anything is worth doing, do it with all your heart..  - ***Buddha*** <br>
+>Give, even if you only have a little. - ***Buddha***
 
 ****
 # Code Fencing 
