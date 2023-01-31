@@ -35,4 +35,5 @@ would recommend someone visit.
 
 ****
 # Code Fencing 
+First find a code snippet.Check your S number and consult the table to find the set of snippets you can select from. snippet code is htaccess.
 
