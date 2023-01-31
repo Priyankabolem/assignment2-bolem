@@ -11,3 +11,6 @@ Three best players are
    1. Spencer Schomers.
    2. Diego Bernard.
    3. Jonah Hinton.
+* Denver Nuggets
+* Golden State Warriors
+
